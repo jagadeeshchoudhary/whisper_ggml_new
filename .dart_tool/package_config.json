@@ -500,7 +500,7 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "whisper_ggml",
+      "name": "whisper_ggml_new",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.9"

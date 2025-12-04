@@ -1,10 +1,10 @@
 {
   "roots": [
-    "whisper_ggml"
+    "whisper_ggml_new"
   ],
   "packages": [
     {
-      "name": "whisper_ggml",
+      "name": "whisper_ggml_new",
       "version": "1.7.0",
       "dependencies": [
         "ffi",
