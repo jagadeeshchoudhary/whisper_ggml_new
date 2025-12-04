@@ -5,7 +5,7 @@
 import FlutterMacOS
 import Foundation
 
-import ffmpeg_kit_flutter_new_min
+import ffmpeg_kit_flutter_new_full
 import path_provider_foundation
 import record_macos
 
